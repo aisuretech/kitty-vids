@@ -274,9 +274,8 @@ git push origin main
 
 | Feature | Preview |
 |---------|---------|
-| Home & Video Gallery | ![](https://www.kitty-vids.com/images/guides/cats/cat-nutrition-101-feeding-for-long-term-health/preview.png) |
-| Encyclopedia Guide | ![](https://www.kitty-vids.com/images/guides/cats/understanding-cat-body-language-what-your-feline-is-really-saying/preview.png) |
-
+| Home & Video Gallery | ![](https://www.kitty-vids.com/images/guides/cats/cat-nutrition-101-feeding-for-long-term-health/coverImage.jpg) |
+| Encyclopedia Guide | ![](https://www.kitty-vids.com/images/guides/cats/understanding-cat-body-language-what-your-feline-is-really-saying/coverImage.png) |
 ## Use Cases
 
 - **Pet Education Platform**: Build a community site for pet owners to learn care, training, and health topics
